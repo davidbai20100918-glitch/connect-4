@@ -258,7 +258,7 @@
         type: "standard",
         theme: "filled_black",
         size: "large",
-        shape: "pill",
+        shape: "rectangular",
         text: "signin_with",
         logo_alignment: "left",
       });
